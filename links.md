@@ -3,4 +3,5 @@
 * [Rodolfo “Willy” Pregliasco, el físico forense del CONICET que llegó a la serie CSI](http://www.conicet.gov.ar/rodolfo-willy-pregliasco-el-fisico-forense-del-conicet-que-llego-a-la-serie-csi/)  
 * [Alexandre Grothendieck, Allons-nous continuer la recherche scientifique?, 1972](https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche/)   
 * [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)  
-* [Scientist as Citizens: activism beyond the bench](http://scientistsascitizens.org/)
+* [Scientist as Citizens: activism beyond the bench](http://scientistsascitizens.org/)  
+* [Decolonising Science Reading List - It’s The End of Science As You Know It](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.5mmk38ty7)  
